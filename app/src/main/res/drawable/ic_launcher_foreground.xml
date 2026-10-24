@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Calendar frame -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,30h40c3.3,0 6,2.7 6,6v38c0,3.3 -2.7,6 -6,6H34c-3.3,0 -6,-2.7 -6,-6V36c0,-3.3 2.7,-6 6,-6z" />
+    <!-- Calendar top bindings -->
+    <path
+        android:fillColor="#93C6DB"
+        android:pathData="M40,24h4v10h-4zM64,24h4v10h-4z" />
+    <!-- Calendar header bar -->
+    <path
+        android:fillColor="#0A2632"
+        android:pathData="M28,36c0,-3.3 2.7,-6 6,-6h40c3.3,0 6,2.7 6,6v8H28v-8z" />
+    <!-- Forward offset arrow inside calendar -->
+    <path
+        android:fillColor="#1F4E5F"
+        android:pathData="M40,59h20.2l-5.6,-5.6L57.4,50.6L67.8,61L57.4,71.4l-2.8,-2.8l5.6,-5.6H40V59z" />
+</vector>
